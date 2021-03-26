@@ -23,10 +23,12 @@ repo.
 ### The tools
 
 This is a complete [`{tidyverse}` powered
-project](https://www.tidyverse.org/). I’ve also used this project as a
-way to get to know [Thomas Lin Pedersen’s](https://github.com/thomasp85)
-new [`{ggfx}` package](https://github.com/thomasp85/ggfx), which premise
-I love as I’m keen to add a bit of *depth* to digital visualisations.
+project](https://www.tidyverse.org/), with a touch of
+[`{hrbrthemes}`](https://hrbrmstr.github.io/hrbrthemes/). I’ve also used
+this project as a way to get to know [Thomas Lin
+Pedersen’s](https://github.com/thomasp85) new [`{ggfx}`
+package](https://github.com/thomasp85/ggfx), which premise I love as I’m
+keen to add a bit of *depth* to digital visualisations.
 
 ## The code
 
